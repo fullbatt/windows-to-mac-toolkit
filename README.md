@@ -2,6 +2,14 @@
 
 `Windows to Mac Toolkit` is a small macOS menu-bar helper for Windows users who want familiar keyboard behavior on a Mac.
 
+## Download
+
+Download the latest full macOS installer from the [GitHub Releases page](https://github.com/fullbatt/windows-to-mac-toolkit/releases/latest):
+
+[Download Windows to Mac Toolkit 0.1.0](https://github.com/fullbatt/windows-to-mac-toolkit/releases/download/v0.1.0/Windows-to-Mac-Toolkit-0.1.0-macOS.zip)
+
+Unzip the download and move **F Key Mapper.app** to your Applications folder. macOS may require Accessibility permission before keyboard mappings can work.
+
 The menu-bar item is named **Win->Mac**. Open **Settings...** to configure the modules in separate tabs.
 
 ## Modules
